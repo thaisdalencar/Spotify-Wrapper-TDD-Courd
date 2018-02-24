@@ -1,5 +1,8 @@
 # Spotify Wrapper - TDD Course by Willian Justen
 
+[![Build Status](https://travis-ci.org/thaisdalencar/Spotify-Wrapper-TDD-Course.svg?branch=master)](https://travis-ci.org/thaisdalencar/Spotify-Wrapper-TDD-Course)
+
+
 [![Build Status](https://travis-ci.org/willianjusten/spotify-wrapper.svg?branch=master)](https://travis-ci.org/willianjusten/spotify-wrapper) [![Coverage Status](https://coveralls.io/repos/github/willianjusten/spotify-wrapper/badge.svg?branch=master)](https://coveralls.io/github/willianjusten/spotify-wrapper?branch=master)
 
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
