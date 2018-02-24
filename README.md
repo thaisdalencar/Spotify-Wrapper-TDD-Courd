@@ -1,10 +1,10 @@
-# Spotify Wrapper
+# Spotify Wrapper - TDD Course by Willian Justen
 
 [![Build Status](https://travis-ci.org/willianjusten/spotify-wrapper.svg?branch=master)](https://travis-ci.org/willianjusten/spotify-wrapper) [![Coverage Status](https://coveralls.io/repos/github/willianjusten/spotify-wrapper/badge.svg?branch=master)](https://coveralls.io/github/willianjusten/spotify-wrapper?branch=master)
 
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
 
-ALERT: This library is not my own, its development was entirely based on the teachings of the course "JS with TDD in Practice" by Willian Justen, as well as this library, as described at the end of this text.
+ALERT: This library is not my own, its development was entirely based on the teachings of the course "JS com TDD na Prática" by Willian Justen, as well as this library, as described at the end of this text.
 
 ## Browser Support
 
