@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/thaisdalencar/Spotify-Wrapper-TDD-Course.svg?branch=master)](https://travis-ci.org/thaisdalencar/Spotify-Wrapper-TDD-Course)
 
+[![Coverage Status](https://coveralls.io/repos/github/thaisdalencar/Spotify-Wrapper-TDD-Course/badge.svg?branch=master)](https://coveralls.io/github/thaisdalencar/Spotify-Wrapper-TDD-Course?branch=master)
 
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
 
